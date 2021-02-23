@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146368710710",
+    "project_id": "final-fc712",
+    "storage_bucket": "final-fc712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146368710710:android:06d2227eae1bea31093097",
+        "android_client_info": {
+          "package_name": "com.example.electron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146368710710-apln4diecnk087an848actu3gsqk9644.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRSzVAOHsCMrSIGCU_6cBztiovJ0uDh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146368710710-apln4diecnk087an848actu3gsqk9644.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
